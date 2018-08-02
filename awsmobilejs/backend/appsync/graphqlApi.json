@@ -1,0 +1,4 @@
+{
+    "name": "awsmessage",
+    "authenticationType": "AWS_IAM"
+}
